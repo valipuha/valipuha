@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm valipuha</h1>
-<h3 align="center">From republic of moldova</h3>
+<h3 align="center">From Moldova🇲🇩</h3>
 
-- 🌱 I’m currently learning **html5**
+- 🌱 I’m currently learning **HTML5**
 
 - 📫 How to reach me **vali0puha@gmail.com**
 
