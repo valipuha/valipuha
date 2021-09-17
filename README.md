@@ -20,3 +20,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valipuha&show_icons=true&locale=en&layout=compact" alt="valipuha" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=valipuha&show_icons=true&locale=en" alt="valipuha" /></p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=valipuha&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valipuha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
