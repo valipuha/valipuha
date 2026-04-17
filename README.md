@@ -22,13 +22,20 @@
 - Most of my public stuff leans toward web projects, TypeScript, and lightweight experiments.
 - When I am not coding, there is a good chance music is playing in the background.
 
-## Featured Projects
+## Around Here
 
-| Project | What it is |
-| --- | --- |
-| [simple-proxy](https://github.com/valipuha/simple-proxy) | A TypeScript project for simple proxying and traffic experiments. |
-| [suntlat](https://github.com/valipuha/suntlat) | An HTML-based web project and playground. |
-| [convert](https://github.com/valipuha/convert) | A fork of an online file converter available at [convert.to.it](https://convert.to.it). |
+- mostly small web experiments and random ideas that turned into repos
+- TypeScript when I want structure, HTML when I want to move fast
+- music on, tabs open, probably building something unnecessary but fun
+
+<p align="center">
+  <a href="https://github.com/valipuha?tab=repositories">
+    <img src="https://img.shields.io/badge/all%20repos-see%20everything-111111?style=flat-square&logo=github&logoColor=white" alt="All repositories">
+  </a>
+  <a href="https://last.fm/user/eyp">
+    <img src="https://img.shields.io/badge/last.fm-recent%20listens-d51007?style=flat-square&logo=lastdotfm&logoColor=white" alt="Last.fm profile">
+  </a>
+</p>
 
 ## GitHub Snapshot
 
